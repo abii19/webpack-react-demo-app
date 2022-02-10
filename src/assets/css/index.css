@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  transition: all 0.5s;
+  background: rgb(46, 46, 46);
+  /* background: linear-gradient(to bottom, white, black) no-repeat; */
+}
+body {
+  color: black;
+}
+h1 {
+  font-size: 60px;
+}

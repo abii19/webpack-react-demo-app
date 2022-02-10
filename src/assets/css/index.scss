@@ -1,0 +1,10 @@
+$bg-color: #444;
+$text-color: green;
+
+* {
+  background: $bg-color;
+  color: $text-color;
+  h1 {
+    color: red;
+  }
+}
